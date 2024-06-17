@@ -1,0 +1,8 @@
+langchain_community
+openai
+langchain_openai
+pypdf
+oracledb
+cx_Oracle
+load_dotenv
+langchain_cohere
